@@ -15,6 +15,6 @@
   ~ limitations under the License.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <workspaceFilter version="1.0">
-    <filter root="/apps/hootsuite-integration-packages"/>
-    <filter root="/apps/hootsuite-integration-vendor-packages"/>
+    <filter root="/apps/aemaacs-administration-app-packages"/>
+    <filter root="/apps/aemaacs-administration-app-vendor-packages"/>
 </workspaceFilter>
